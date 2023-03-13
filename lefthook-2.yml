@@ -1,0 +1,2 @@
+extends:
+  - extends/test2.yml
