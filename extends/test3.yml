@@ -1,4 +1,0 @@
-pre-commit:
-  commands:
-    test3:
-      run: echo test3

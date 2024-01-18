@@ -1,0 +1,4 @@
+pre-commit:
+  commands:
+    part2:
+      run: echo part2

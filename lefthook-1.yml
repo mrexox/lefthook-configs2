@@ -1,2 +1,2 @@
 extends:
-  - extends/test1.yml
+  - parts/test1.yml
