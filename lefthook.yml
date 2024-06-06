@@ -1,0 +1,5 @@
+source_dir: ./
+prepare-commit-msg:
+  scripts:
+    "script.sh":
+      runner: bash
